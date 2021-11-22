@@ -67,7 +67,7 @@ public final class CatDecCommand extends AbstractFileSystemCommand {
 
     @Override
     public String getUsage() {
-        return "catenc <path>";
+        return "catdec <path>";
     }
 
     @Override
