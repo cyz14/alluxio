@@ -40,7 +40,6 @@
     <module>wasb</module>
     <module>web</module>
     <module>obs</module>
-    <module>tee</module>
   </modules>
 
   <properties>
